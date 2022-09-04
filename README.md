@@ -1,6 +1,6 @@
 # Landing Page
 
-Personal landing template.
+Profesional responsable, resiliente, creativo y proactivo ante nuevos desafíos. Experiencia en programación, procesos, investigación científica y en docencia.
 
 Diseñado para la simplicidad.
 
@@ -14,12 +14,6 @@ Diseñado para la simplicidad.
  
 ## Installation
 
-1. `git clone https://github.com/adrianfrancof/landingexample.git`
+1. `git clone https://github.com/jomeza0/homePortfolio.git`
 
 2. Open `index.html`. That's it!
-
-## License
-
-Este proyecto está bajo la Licencia [MIT license](https://choosealicense.com/licenses/mit/).
-
-Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
